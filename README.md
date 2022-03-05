@@ -6,6 +6,7 @@
 
 秀丸でcreateobject経由で .NET4.x を利用する最小サンプルです。
 
+https://秀丸マクロ.net/?page=nobu_tool_hm_dotnet_macro_com
 <br>
 <br>
 <br>
@@ -18,6 +19,7 @@
 
 秀丸でcreateobject経由で .NET5.x を利用する最小サンプルです。
 
+https://秀丸マクロ.net/?page=nobu_tool_hm_dotnet_macro_com5
 <br>
 <br>
 <br>
@@ -29,3 +31,5 @@
 ![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio-2022-6479ff.svg)
 
 秀丸でcreateobject経由で .NET6.x を利用する最小サンプルです。
+
+https://秀丸マクロ.net/?page=nobu_tool_hm_dotnet_macro_com6
